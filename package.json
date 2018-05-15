@@ -1,0 +1,39 @@
+{
+  "name": "edenjs-core",
+  "description": "Web Application Framework built on Express.js, Redis and Mongorito",
+  "version": "0.2.0",
+  "author": {
+    "name": "Alex Taylor (EdenCoder)",
+    "email": "alex@edenup.com",
+    "web": "https://edencoder.com/"
+  },
+  "contributors": [
+    {
+      "name": "Alex Taylor (EdenCoder)",
+      "email": "alex@edenup.com",
+      "web": "https://edencoder.com/"
+    },
+    {
+      "name": "Jack Taylor (OhYea777)",
+      "email": "jack@edenup.com",
+      "web": "https://ohyea777.com/"
+    }
+  ],
+  "bugs": {
+    "web": "https://github.com/eden-js/eden/issues"
+  },
+  "repositories": [
+    {
+      "type": "git",
+      "url": "https://github.com/eden-js/eden.git"
+    }
+  ],
+  "license": "(MIT OR Apache-2.0)",
+  "homepage": "https://edenjs.com/",
+  "engines": {
+    "node": ">=10.1.0"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1"
+  }
+}
